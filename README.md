@@ -84,5 +84,5 @@ Simulated Annealing with Restarts: Best tour length = 1032.100
 
 - ATTOH James, https://github.com/jamesattoh
 - BIAOU Marius
-- HOUESSOU Kenny
+- HOUESSOU Kenny, https://github.com/KennyHSS/
 - YACOUBOU Masmoud
